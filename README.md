@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hi there, my name is
+
+# Matvei Pustovalov
+
+I am a frontend developer in love with user interfaces with knowledge of performance marketing, SEO, typography and layout for web, text editing in informational style (so far only in my native Russian).
 
 <!--
 **pustoym/pustoym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![codewars badge](https://www.codewars.com/users/pustoi/badges/micro)
