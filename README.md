@@ -2,15 +2,17 @@
 
 # Matvei Pustovalov
 
-Principle web-based user interface developer with knowledge of performance marketing.
+Principle web-based UI-developer with knowledge of performance marketing.
 
 #Web, #Frontend, #SEO, #Typography, #VisualRhythm
 
-- Team manager / Physician to customers in top-3 Russian web agency
+**Roles:**
+- Team manager / Exorcist for customer's 
 - Live text editor in informational style (so far only in my native ru).
 
-- 🔭 I’m currently working on starting my own development agency / website for clients and experts
-- 🌱 I’m currently learning AI/ML trend
+**Currently:**
+- 🔭 Working on starting my own development agency / website for clients and experts
+- 🌱 Learning AI/ML trend
 <!--
 **pustoym/pustoym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
